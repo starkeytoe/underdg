@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="test tbl" language="en" table="x_snc_underdog_test_tbl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test tbl</label>
+            <language>en</language>
+            <name>x_snc_underdog_test_tbl</name>
+            <plural>test tbls</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>scott.starkey@snc</sys_created_by>
+            <sys_created_on>2020-03-16 17:10:53</sys_created_on>
+            <sys_id>5c0d59121b2f0810af218487dc4bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test tbl</sys_name>
+            <sys_package display_value="underdog" source="x_snc_underdog">47bc59de1beb0810af218487dc4bcb4c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="underdog">47bc59de1beb0810af218487dc4bcb4c</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_underdog_test_tbl__en</sys_update_name>
+            <sys_updated_by>scott.starkey@snc</sys_updated_by>
+            <sys_updated_on>2020-03-16 17:10:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
