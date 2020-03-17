@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="underdog table">eddd536a1b2b8810af218487dc4bcb64</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>underdog tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_underdog_underdog_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_underdog.underdog_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>scott.starkey@snc</sys_created_by>
+        <sys_created_on>2020-03-17 21:12:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5dd536a1b2b8810af218487dc4bcb68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>underdog tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="underdog" source="x_snc_underdog">47bc59de1beb0810af218487dc4bcb4c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="underdog">47bc59de1beb0810af218487dc4bcb4c</sys_scope>
+        <sys_update_name>sys_app_module_b5dd536a1b2b8810af218487dc4bcb68</sys_update_name>
+        <sys_updated_by>scott.starkey@snc</sys_updated_by>
+        <sys_updated_on>2020-03-17 21:12:15</sys_updated_on>
+        <timeline_page/>
+        <title>underdog tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
